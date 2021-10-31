@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "747c3e22fdaf54867d8862a346d378dd",
+    "revision": "da0d6127cfc36fd5a1a2766601fbdf16",
     "url": "/index.html"
   },
   {
-    "revision": "19906db32625d1e859cd",
+    "revision": "4e8cefad220bd2f0582e",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "a8311251476843034ab3",
+    "revision": "5caf162e12e335ee31ba",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "62b822c51d7bb2a69329",
+    "revision": "6f51efba12f6633a8311",
     "url": "/static/css/main.d407de29.chunk.css"
   },
   {
-    "revision": "90b3487faef22c6f968e",
-    "url": "/static/js/2.de45d344.chunk.js"
+    "revision": "4bfb57853c40ae7e6013",
+    "url": "/static/js/2.79437f20.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.de45d344.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.79437f20.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "19906db32625d1e859cd",
-    "url": "/static/js/3.31a127c5.chunk.js"
+    "revision": "4e8cefad220bd2f0582e",
+    "url": "/static/js/3.e6b6a455.chunk.js"
   },
   {
-    "revision": "a8311251476843034ab3",
-    "url": "/static/js/4.63190397.chunk.js"
+    "revision": "5caf162e12e335ee31ba",
+    "url": "/static/js/4.750bf017.chunk.js"
   },
   {
-    "revision": "62b822c51d7bb2a69329",
-    "url": "/static/js/main.f3695c6c.chunk.js"
+    "revision": "6f51efba12f6633a8311",
+    "url": "/static/js/main.f7b82bf2.chunk.js"
   },
   {
-    "revision": "1addc49dc73e8886b92a",
-    "url": "/static/js/runtime-main.ba1ca6f1.js"
+    "revision": "b1cdf6d3fd22cb6eb178",
+    "url": "/static/js/runtime-main.318ac236.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -74,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a4871e805e7c95f83cb3cc84b776bf1a",
     "url": "/static/media/GameLogo.a4871e80.svg"
+  },
+  {
+    "revision": "9a5bef5735550c70e388ea32e94c2fcd",
+    "url": "/static/media/IBMLogo.9a5bef57.jpg"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
