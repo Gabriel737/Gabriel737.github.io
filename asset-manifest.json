@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.d407de29.chunk.css",
-    "main.js": "/static/js/main.1af0943a.chunk.js",
-    "main.js.map": "/static/js/main.1af0943a.chunk.js.map",
+    "main.js": "/static/js/main.68a9141a.chunk.js",
+    "main.js.map": "/static/js/main.68a9141a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.318ac236.js",
     "runtime-main.js.map": "/static/js/runtime-main.318ac236.js.map",
-    "static/js/2.79437f20.chunk.js": "/static/js/2.79437f20.chunk.js",
-    "static/js/2.79437f20.chunk.js.map": "/static/js/2.79437f20.chunk.js.map",
+    "static/js/2.0675dbc0.chunk.js": "/static/js/2.0675dbc0.chunk.js",
+    "static/js/2.0675dbc0.chunk.js.map": "/static/js/2.0675dbc0.chunk.js.map",
     "static/css/3.df879eac.chunk.css": "/static/css/3.df879eac.chunk.css",
     "static/js/3.e6b6a455.chunk.js": "/static/js/3.e6b6a455.chunk.js",
     "static/js/3.e6b6a455.chunk.js.map": "/static/js/3.e6b6a455.chunk.js.map",
@@ -14,12 +14,12 @@
     "static/js/4.750bf017.chunk.js": "/static/js/4.750bf017.chunk.js",
     "static/js/4.750bf017.chunk.js.map": "/static/js/4.750bf017.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5de5e3036d9c083cd6a1ed64fba7b41b.js": "/precache-manifest.5de5e3036d9c083cd6a1ed64fba7b41b.js",
+    "precache-manifest.077fb54713cf5c0ef94cc4faf4906e25.js": "/precache-manifest.077fb54713cf5c0ef94cc4faf4906e25.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
     "static/css/main.d407de29.chunk.css.map": "/static/css/main.d407de29.chunk.css.map",
-    "static/js/2.79437f20.chunk.js.LICENSE.txt": "/static/js/2.79437f20.chunk.js.LICENSE.txt",
+    "static/js/2.0675dbc0.chunk.js.LICENSE.txt": "/static/js/2.0675dbc0.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/AirplaneLogo.svg": "/static/media/AirplaneLogo.2dfc188a.svg",
     "static/media/CECMLogo.png": "/static/media/CECMLogo.eeb187bb.png",
@@ -40,8 +40,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.318ac236.js",
-    "static/js/2.79437f20.chunk.js",
+    "static/js/2.0675dbc0.chunk.js",
     "static/css/main.d407de29.chunk.css",
-    "static/js/main.1af0943a.chunk.js"
+    "static/js/main.68a9141a.chunk.js"
   ]
 }
