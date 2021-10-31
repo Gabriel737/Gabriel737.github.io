@@ -26,7 +26,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/Gabriel737",
   linkedin: "https://www.linkedin.com/in/gabrielhenderson",
-  gmail: "gabriel95x@gmail.com",
+  gmail: "gabriel.henderson@live.com",
   // gitlab: "https://gitlab.com/saadpasta",
   // facebook: "https://www.facebook.com/saad.pasta7",
   // medium: "https://medium.com/@saadpasta",
@@ -52,7 +52,7 @@ const skillsSection = {
       "⚡ Deploy Machine Learning models to uncover important insights from your data"
     ),
     emoji(
-      "⚡ Engineer robust solutions by using industry best practices such as agile methodology and test-driven development."
+      "⚡ Engineer robust solutions by using industry best practices such as agile methodology and test-driven development"
     )
   ],
 
@@ -127,7 +127,7 @@ const educationInfo = {
       schoolName: "University of British Columbia",
       logo: require("./assets/images/UBCLogo.jpg"),
       subHeader: "Bachelor of Science in Mathematics",
-      duration: "September 2015 - May 2017",
+      duration: "April 2015 - May 2017",
       descBullets: [
         "Graduated with distinction by acheving a GPA of 90%",
         "Received the Chancellor's Scholar Award for ranking among the top 10% of all applicants"
@@ -444,7 +444,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+1 604 838 1021",
-  email_address: "gabriel95x@gmail.com"
+  email_address: "gabriel.henderson@live.com"
 };
 
 // Twitter Section
