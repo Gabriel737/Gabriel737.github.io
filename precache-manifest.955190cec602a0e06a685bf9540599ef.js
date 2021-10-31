@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1d0a41254947890cffdad792c4b5fb7e",
+    "revision": "1fef0cd4dcaab8f403de28c1a0d6c8a9",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "ee6c2a20e1f9ebbec367",
+    "revision": "efe254169df86a2080a0",
     "url": "/static/css/main.ab5f0464.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.750bf017.chunk.js"
   },
   {
-    "revision": "ee6c2a20e1f9ebbec367",
-    "url": "/static/js/main.29b587d4.chunk.js"
+    "revision": "efe254169df86a2080a0",
+    "url": "/static/js/main.1981990e.chunk.js"
   },
   {
     "revision": "6f1b7faf881085478cfd",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/CECMLogo.eeb187bb.png"
   },
   {
-    "revision": "9b9681942fe4b27aea880813abaeb668",
-    "url": "/static/media/CEELogo.9b968194.jpg"
+    "revision": "80a66ca37f87fff490568f251319da01",
+    "url": "/static/media/CEELogo.80a66ca3.jpg"
   },
   {
     "revision": "63fe9700235868a5638ee2df67eed635",
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ComptiaLogo.6ced7619.png"
   },
   {
-    "revision": "0e3aeb27bd794c229c6096e64cf8e74c",
-    "url": "/static/media/CourseraLogo.0e3aeb27.png"
+    "revision": "50822b71d55da016043435e03c9c1db7",
+    "url": "/static/media/CourseraLogo.50822b71.png"
   },
   {
     "revision": "39017b36848a6104ba68c7f82a8c25a0",
