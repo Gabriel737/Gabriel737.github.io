@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.ab5f0464.chunk.css",
-    "main.js": "/static/js/main.75dfe796.chunk.js",
-    "main.js.map": "/static/js/main.75dfe796.chunk.js.map",
+    "main.js": "/static/js/main.29b587d4.chunk.js",
+    "main.js.map": "/static/js/main.29b587d4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f6d7c492.js",
     "runtime-main.js.map": "/static/js/runtime-main.f6d7c492.js.map",
     "static/js/2.8a16820f.chunk.js": "/static/js/2.8a16820f.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.750bf017.chunk.js": "/static/js/4.750bf017.chunk.js",
     "static/js/4.750bf017.chunk.js.map": "/static/js/4.750bf017.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.20188fd7fc42f7751364314303a09ccd.js": "/precache-manifest.20188fd7fc42f7751364314303a09ccd.js",
+    "precache-manifest.bd482c370cdb92b5e5e9ffc0cde17b6f.js": "/precache-manifest.bd482c370cdb92b5e5e9ffc0cde17b6f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
@@ -25,11 +25,11 @@
     "static/media/CECMLogo.png": "/static/media/CECMLogo.eeb187bb.png",
     "static/media/CEELogo.jpg": "/static/media/CEELogo.9b968194.jpg",
     "static/media/CadorsLogo.svg": "/static/media/CadorsLogo.63fe9700.svg",
-    "static/media/ComptiaLogo.png": "/static/media/ComptiaLogo.56ee358e.png",
-    "static/media/CourseraLogo.png": "/static/media/CourseraLogo.f164597f.png",
+    "static/media/ComptiaLogo.png": "/static/media/ComptiaLogo.6ced7619.png",
+    "static/media/CourseraLogo.png": "/static/media/CourseraLogo.0e3aeb27.png",
     "static/media/GURWLogo.jpg": "/static/media/GURWLogo.39017b36.jpg",
     "static/media/GameLogo.svg": "/static/media/GameLogo.a4871e80.svg",
-    "static/media/IBMLogo.jpg": "/static/media/IBMLogo.0b4625ac.jpg",
+    "static/media/IBMLogo.jpg": "/static/media/IBMLogo.b9f97673.jpg",
     "static/media/ProcasLogo.svg": "/static/media/ProcasLogo.ac82d984.svg",
     "static/media/TCLogo.png": "/static/media/TCLogo.a9c1e7a7.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
@@ -42,6 +42,6 @@
     "static/js/runtime-main.f6d7c492.js",
     "static/js/2.8a16820f.chunk.js",
     "static/css/main.ab5f0464.chunk.css",
-    "static/js/main.75dfe796.chunk.js"
+    "static/js/main.29b587d4.chunk.js"
   ]
 }

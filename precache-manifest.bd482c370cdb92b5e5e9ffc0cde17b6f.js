@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e95d2488f8451b73f1aa111656a0c750",
+    "revision": "1d0a41254947890cffdad792c4b5fb7e",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "36b4152cedea07195e8f",
+    "revision": "ee6c2a20e1f9ebbec367",
     "url": "/static/css/main.ab5f0464.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.750bf017.chunk.js"
   },
   {
-    "revision": "36b4152cedea07195e8f",
-    "url": "/static/js/main.75dfe796.chunk.js"
+    "revision": "ee6c2a20e1f9ebbec367",
+    "url": "/static/js/main.29b587d4.chunk.js"
   },
   {
     "revision": "6f1b7faf881085478cfd",
@@ -60,12 +60,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/CadorsLogo.63fe9700.svg"
   },
   {
-    "revision": "56ee358ef4fc8492fd3540712550d6e1",
-    "url": "/static/media/ComptiaLogo.56ee358e.png"
+    "revision": "6ced7619984d6d58ec86647dba43a1c9",
+    "url": "/static/media/ComptiaLogo.6ced7619.png"
   },
   {
-    "revision": "f164597fa79eb007f5a959fc90e72142",
-    "url": "/static/media/CourseraLogo.f164597f.png"
+    "revision": "0e3aeb27bd794c229c6096e64cf8e74c",
+    "url": "/static/media/CourseraLogo.0e3aeb27.png"
   },
   {
     "revision": "39017b36848a6104ba68c7f82a8c25a0",
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/GameLogo.a4871e80.svg"
   },
   {
-    "revision": "0b4625acc2b8ef6e41e42f42ee05174c",
-    "url": "/static/media/IBMLogo.0b4625ac.jpg"
+    "revision": "b9f976734987b599cbf8bc74aa09e8cb",
+    "url": "/static/media/IBMLogo.b9f97673.jpg"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
