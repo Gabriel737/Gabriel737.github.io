@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.ab5f0464.chunk.css",
-    "main.js": "/static/js/main.1981990e.chunk.js",
-    "main.js.map": "/static/js/main.1981990e.chunk.js.map",
+    "main.js": "/static/js/main.e02fa72c.chunk.js",
+    "main.js.map": "/static/js/main.e02fa72c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f6d7c492.js",
     "runtime-main.js.map": "/static/js/runtime-main.f6d7c492.js.map",
     "static/js/2.8a16820f.chunk.js": "/static/js/2.8a16820f.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.750bf017.chunk.js": "/static/js/4.750bf017.chunk.js",
     "static/js/4.750bf017.chunk.js.map": "/static/js/4.750bf017.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.955190cec602a0e06a685bf9540599ef.js": "/precache-manifest.955190cec602a0e06a685bf9540599ef.js",
+    "precache-manifest.8f6460150d729bc9405a409ee9aad805.js": "/precache-manifest.8f6460150d729bc9405a409ee9aad805.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
@@ -31,7 +31,7 @@
     "static/media/GameLogo.svg": "/static/media/GameLogo.a4871e80.svg",
     "static/media/IBMLogo.jpg": "/static/media/IBMLogo.b9f97673.jpg",
     "static/media/ProcasLogo.svg": "/static/media/ProcasLogo.ac82d984.svg",
-    "static/media/TCLogo.png": "/static/media/TCLogo.a9c1e7a7.png",
+    "static/media/TCLogo.png": "/static/media/TCLogo.f1c6885c.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
@@ -42,6 +42,6 @@
     "static/js/runtime-main.f6d7c492.js",
     "static/js/2.8a16820f.chunk.js",
     "static/css/main.ab5f0464.chunk.css",
-    "static/js/main.1981990e.chunk.js"
+    "static/js/main.e02fa72c.chunk.js"
   ]
 }
