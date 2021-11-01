@@ -17,7 +17,7 @@ const greeting = {
     "An aspiring Software Engineer 🚀 with interests in Full-Stack Software Development, Machine Learning, Big Data, and Cloud Computing"
   ),
   resumeLink:
-    "/", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1ZCO4RxxXYeOWVFVXs8Vk0Twyte0H5lKT/view", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -26,11 +26,11 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/Gabriel737",
   linkedin: "https://www.linkedin.com/in/gabrielhenderson",
-  gmail: "gabriel.henderson@live.com",
-  // gitlab: "https://gitlab.com/saadpasta",
-  // facebook: "https://www.facebook.com/saad.pasta7",
-  // medium: "https://medium.com/@saadpasta",
-  // stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  gmail: "gabriel_henderson@sfu.ca",
+  // gitlab: ""
+  // facebook: "",
+  // medium: "",
+  // stackoverflow: "",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -40,7 +40,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "AMBITIOUS AND PASSIONATE PROGRAMMER WHO WANTS TO EXPLORE EVERY TECH STACK. HERE'S WHAT I KNOW SO FAR:",
+  subTitle: "I'm an ambitious and passionate programmer who wants to explore every tech stack. Here's what I know so far:",
   skills: [
     emoji(
       "⚡ Develop highly interactive and scalable Full Stack Web Applications"
@@ -209,7 +209,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Projects",
-  subtitle: emoji("SOME COOL PROJECTS I'VE WORKED ON 🛠️"),
+  subtitle: emoji("Some cool projects I've worked on 👨‍💻🛠️"),
   projects: [
     {
       image: require("./assets/images/CadorsLogo.svg"),
@@ -217,8 +217,8 @@ const bigProjects = {
       projectDesc: "Your one-stop-shop for all data relating to Canadian civil aviation incidents and accidents. Now, with a touch of ML",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "/"
+          name: "In Progress",
+          url: "#"
         }
         //  you can add extra buttons here.
       ]
@@ -229,8 +229,8 @@ const bigProjects = {
       projectDesc: "A sleek, modern, and free cloud-based application to keep track of your flights. Meets Transport Canada & FAA regs",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "/"
+          name: "In Progress",
+          url: "#"
         }
         //  you can add extra buttons here.
       ]
@@ -242,7 +242,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit GitHub",
-          url: "/"
+          url: "https://github.com/Gabriel737/Shinkei-Suijaku"
         }
       ]
     },
@@ -253,7 +253,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit GitHub",
-          url: "/"
+          url: "https://github.com/Gabriel737/ProCAS"
         }
       ]
     }
@@ -265,9 +265,9 @@ const bigProjects = {
 // Include certificates, talks etc
 
 const achievementSection = {
-  title: "Acheivements and Certifications",
+  title: "Acheivements & Certifications",
   subtitle:
-    "Learning Doesn't End with University, Here's What Else I've Done...",
+    "Learning doesn't end with university, here's what else I've done ...",
 
   achievementsCards: [
     {
@@ -278,11 +278,11 @@ const achievementSection = {
       footerLink: [
         {
           name: "View Course",
-          url: "/"
+          url: "https://fullstackopen.com/en/"
         },
         {
           name: "View Certificate",
-          url: "/"
+          url: "#"
         }
       ]
     },
@@ -294,27 +294,27 @@ const achievementSection = {
       footerLink: [
         {
           name: "View Course",
-          url: "/"
+          url: "https://www.coursera.org/learn/machine-learning-with-python"
         },
         {
           name: "View Certificate",
-          url: "/"
+          url: "https://drive.google.com/file/d/1YqJB1Z7GbHKmyLbGpTsErwp6Uh0xBk-B/view?usp=sharing"
         }
       ]
     },
     {
-      title: "Introduction to Deep Learning & Neutral Networks",
+      title: "Intro to Deep Learning & Neutral Networks",
       subtitle:
         "Neural Networks, Supervised and Unsupervised Deep Learning Models, and Keras",
       image: require("./assets/images/IBMLogo.jpg"),
       footerLink: [
         {
           name: "View Course",
-          url: "/"
+          url: "https://www.coursera.org/learn/introduction-to-deep-learning-with-keras"
         },
         {
           name: "View Certificate",
-          url: "/"
+          url: "https://drive.google.com/file/d/1YcmGHCNwlLV6a8gCZmX3j-nW_sZapDhb/view?usp=sharing"
         }
       ]
     },
@@ -326,11 +326,11 @@ const achievementSection = {
       footerLink: [
         {
           name: "View Course",
-          url: "/"
+          url: "https://www.comptia.org/certifications/a"
         },
         {
           name: "View Certificate",
-          url: "/"
+          url: "https://drive.google.com/file/d/1ZDq82ZHQ1hUA0r82gmSfDd8Kjwo4xxco/view?usp=sharing"
         }
       ]
     },
@@ -341,11 +341,11 @@ const achievementSection = {
       footerLink: [
         {
           name: "View Course",
-          url: "/"
+          url: "https://www.sfu.ca/cee/events/cputl.html"
         },
         {
-          name: "View Certificate",
-          url: "/"
+          name: "In Progress",
+          url: "#"
         }
       ]
     },
@@ -356,11 +356,11 @@ const achievementSection = {
       footerLink: [
         {
           name: "View Course",
-          url: "/"
+          url: "https://tc.canada.ca/en/corporate-services/acts-regulations/list-regulations/canadian-aviation-regulations-sor-96-433/standards/standard-421-flight-crew-permits-licences-ratings-canadian-aviation-regulations-cars#421_30"
         },
         {
           name: "View Certificate",
-          url: "/"
+          url: "https://drive.google.com/file/d/1YrMaV1TOWIkRUPRaGsFc15sIYiTTIcnK/view?usp=sharing"
         }
       ]
     },
@@ -371,11 +371,11 @@ const achievementSection = {
       footerLink: [
         {
           name: "View Course",
-          url: "/"
+          url: "https://tc.canada.ca/en/corporate-services/acts-regulations/list-regulations/canadian-aviation-regulations-sor-96-433/standards/standard-421-flight-crew-permits-licences-ratings-canadian-aviation-regulations-cars#421_70"
         },
         {
           name: "View Certificate",
-          url: "/"
+          url: "https://drive.google.com/file/d/1YrMaV1TOWIkRUPRaGsFc15sIYiTTIcnK/view?usp=sharing"
         }
       ]
     }
@@ -388,20 +388,14 @@ const achievementSection = {
 const blogSection = {
   title: "Blogs",
   subtitle:
-    "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+    "",
 
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      url: "",
+      title: "",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
-    },
-    {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
-      description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+        ""
     }
   ],
   display: false // Set false to hide this section, defaults to true
@@ -410,17 +404,17 @@ const blogSection = {
 // Talks Sections
 
 const talkSection = {
-  title: "TALKS",
+  title: "Talks",
   subtitle: emoji(
-    "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"
+    ""
   ),
 
   talks: [
     {
-      title: "Build Actions For Google Assistant",
-      subtitle: "Codelab at GDG DevFest Karachi 2019",
-      slides_url: "https://bit.ly/saadpasta-slides",
-      event_url: "https://www.facebook.com/events/2339906106275053/"
+      title: "",
+      subtitle: "",
+      slides_url: "",
+      event_url: ""
     }
   ],
   display: false // Set false to hide this section, defaults to true
@@ -430,11 +424,11 @@ const talkSection = {
 
 const podcastSection = {
   title: emoji("Podcast 🎙️"),
-  subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
+  subtitle: "",
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
+    ""
   ],
   display: false // Set false to hide this section, defaults to true
 };
@@ -442,9 +436,9 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
+    "Discuss a project or just want to say hi? My Inbox is open for all!",
   number: "+1 604 838 1021",
-  email_address: "gabriel.henderson@live.com"
+  email_address: "gabriel_henderson@sfu.ca"
 };
 
 // Twitter Section
