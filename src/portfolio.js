@@ -14,10 +14,10 @@ const greeting = {
   username: "Gabriel Xu Henderson",
   title: "Hi, I'm Gabriel",
   subTitle: emoji(
-    "An aspiring Software Engineer 🚀 with interests in Full-Stack Software Development, Machine Learning, Big Data, and Cloud Computing"
+    "A Software Engineer 🚀 with interests in Back-end Software Development, Distributed Systems, Big Data, and Cloud Computing"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ZCO4RxxXYeOWVFVXs8Vk0Twyte0H5lKT/view", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1LGJ7paLIwndTkZspK0y04tOxpYWkKmNb/view", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -26,7 +26,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/Gabriel737",
   linkedin: "https://www.linkedin.com/in/gabrielhenderson",
-  gmail: "gabriel_henderson@sfu.ca",
+  gmail: "gabriel.henderson@live.com",
   // gitlab: ""
   // facebook: "",
   // medium: "",
@@ -43,16 +43,16 @@ const skillsSection = {
   subTitle: "I'm an ambitious and passionate programmer who wants to explore every tech stack. Here's what I know so far:",
   skills: [
     emoji(
-      "⚡ Develop highly interactive and scalable Full Stack Web Applications"
+      "⚡ Develop highly robust and scalable distributed back-end systems"
     ),
     emoji(
       "⚡ Leverage modern cloud solutions like AWS to ensure flexibility, efficiency, and reliability"
     ),
     emoji(
-      "⚡ Deploy Machine Learning models to uncover important insights from your data"
+      "⚡ Engineer robust solutions by using industry best practices such as agile methodology and test-driven development"
     ),
     emoji(
-      "⚡ Engineer robust solutions by using industry best practices such as agile methodology and test-driven development"
+      "⚡ Deploy Machine Learning models to uncover important insights from your data"
     )
   ],
 
@@ -81,28 +81,28 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "React",
-      fontAwesomeClassname: "fab fa-react"
+      skillName: "Angular",
+      fontAwesomeClassname: "fab fa-angular"
     },
     {
       skillName: "Node.JS",
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "MongoDB",
+      skillName: "SQL",
       fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "PostgreSQL",
+      skillName: "NoSQL",
       fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "AWS",
-      fontAwesomeClassname: "fab fa-aws"
     },
     {
       skillName: "Docker",
       fontAwesomeClassname: "fab fa-docker"
+    },
+    {
+      skillName: "AWS",
+      fontAwesomeClassname: "fab fa-aws"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -117,20 +117,20 @@ const educationInfo = {
       schoolName: "Simon Fraser University",
       logo: require("./assets/images/SFULogo.jpg"),
       subHeader: "Master of Science in Computer Science",
-      duration: "September 2021 - Present",
+      duration: "Graduated December 2022",
       descBullets: [
-        "Professional Master's Program in Computer Science",
-        "Expected graduation date: December 2022"
+        "Grade Point Average: 4.0",
+        "Relevant coursework: Machine Learning, Distributed Systems, Cloud Computing, and Natural Language Processing"
       ]
     },
     {
       schoolName: "University of British Columbia",
       logo: require("./assets/images/UBCLogo.jpg"),
       subHeader: "Bachelor of Science in Mathematics",
-      duration: "April 2015 - May 2017",
+      duration: "Graduated May 2017",
       descBullets: [
-        "Graduated with distinction by acheving a GPA of 90%",
-        "Received the Chancellor's Scholar Award for ranking among the top 10% of all applicants"
+        "Grade Point Average: 90%",
+        "Relevant coursework: Advanced Data Structures and Algorithms, Functional & Parallel Programming, and Database Systems"
       ]
     }
   ]
@@ -142,16 +142,16 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Software Engineering",
+      Stack: "Back-end Development",
+      progressPercentage: "90%"
+    },
+    {
+      Stack: "Front-end Development",
       progressPercentage: "70%"
     },
     {
       Stack: "Machine Learning & Data Science",
       progressPercentage: "60%"
-    },
-    {
-      Stack: "Mathematics",
-      progressPercentage: "75%"
     },
     {
       Stack: "Problem Solving",
@@ -167,18 +167,18 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Software Development Engineer Intern",
+      company: "Amazon",
+      companylogo: require("./assets/images/amazon.jpg"),
+      date: "May 2022 – August 2022",
+      desc: "AWS Worklow - Step Functions (Core Engine Team)",
+    },
+    {
       role: "Graduate Teaching Assistant",
       company: "Simon Fraser University",
       companylogo: require("./assets/images/SFULogo.jpg"),
-      date: "September 2021 – Present",
+      date: "September 2021 – April 2022",
       desc: "School of Computing Science, Faculty of Science ",
-    },
-    {
-      role: "Teaching Assistant",
-      company: "Langara College",
-      companylogo: require("./assets/images/LangaraLogo.jpg"),
-      date: "September 2014 – Present",
-      desc: "Department of Computer Science, Faculty of Science",
     },
     {
       role: "Certified Flight Instructor",
@@ -212,25 +212,37 @@ const bigProjects = {
   subtitle: emoji("Some cool projects I've worked on 👨‍💻🛠️"),
   projects: [
     {
-      image: require("./assets/images/CadorsLogo.svg"),
-      projectName: "CadorsMap",
-      projectDesc: "Your one-stop-shop for all data relating to Canadian civil aviation incidents and accidents. Now, with a touch of ML",
+      image: require("./assets/images/marketplace.png"),
+      projectName: "Online NFT Marketplace",
+      projectDesc: "A simulated NFT marketplace using Kubernetes, scaled to 5000+ concurrent users and 2800+ TPS.",
       footerLink: [
         {
-          name: "In Progress",
-          url: "#"
+          name: "Visit GitHub",
+          url: "https://github.com/Gabriel737/NFT-Marketplace-k8s"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/AirplaneLogo.svg"),
-      projectName: "MyLogbook",
-      projectDesc: "A sleek, modern, and free cloud-based application to keep track of your flights. Meets Transport Canada & FAA regs",
+      image: require("./assets/images/heatmap.png"),
+      projectName: "Crime Prediction Heatmap",
+      projectDesc: "Use machine learning on real data to predict crime-wise hotspots in your city!",
       footerLink: [
         {
-          name: "In Progress",
-          url: "#"
+          name: "Visit GitHub",
+          url: "https://github.com/Gabriel737/Crime-Hotspot-Prediction"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/CadorsLogo.svg"),
+      projectName: "Aviation Safety Dashboard",
+      projectDesc: "Your one-stop-shop for all data relating to Canadian civil aviation incidents and accidents, with a touch of ML.",
+      footerLink: [
+        {
+          name: "Visit GitHub",
+          url: "https://github.com/Gabriel737/CadorsMap"
         }
         //  you can add extra buttons here.
       ]
@@ -277,12 +289,8 @@ const achievementSection = {
       image: require("./assets/images/FSOLogo.png"),
       footerLink: [
         {
-          name: "View Course",
+          name: "Find out more",
           url: "https://fullstackopen.com/en/"
-        },
-        {
-          name: "View Certificate",
-          url: "#"
         }
       ]
     },
@@ -293,12 +301,8 @@ const achievementSection = {
       image: require("./assets/images/CourseraLogo.png"),
       footerLink: [
         {
-          name: "View Course",
+          name: "Find out more",
           url: "https://www.coursera.org/learn/machine-learning-with-python"
-        },
-        {
-          name: "View Certificate",
-          url: "https://drive.google.com/file/d/1YqJB1Z7GbHKmyLbGpTsErwp6Uh0xBk-B/view?usp=sharing"
         }
       ]
     },
@@ -309,12 +313,8 @@ const achievementSection = {
       image: require("./assets/images/IBMLogo.jpg"),
       footerLink: [
         {
-          name: "View Course",
+          name: "Find out more",
           url: "https://www.coursera.org/learn/introduction-to-deep-learning-with-keras"
-        },
-        {
-          name: "View Certificate",
-          url: "https://drive.google.com/file/d/1YcmGHCNwlLV6a8gCZmX3j-nW_sZapDhb/view?usp=sharing"
         }
       ]
     },
@@ -325,12 +325,8 @@ const achievementSection = {
       image: require("./assets/images/ComptiaLogo.png"),
       footerLink: [
         {
-          name: "View Course",
+          name: "Find out more",
           url: "https://www.comptia.org/certifications/a"
-        },
-        {
-          name: "View Certificate",
-          url: "https://drive.google.com/file/d/1ZDq82ZHQ1hUA0r82gmSfDd8Kjwo4xxco/view?usp=sharing"
         }
       ]
     },
@@ -340,11 +336,7 @@ const achievementSection = {
       image: require("./assets/images/CEELogo.jpg"),
       footerLink: [
         {
-          name: "View Course",
-          url: "https://www.sfu.ca/cee/events/cputl.html"
-        },
-        {
-          name: "In Progress",
+          name: "Find out more",
           url: "#"
         }
       ]
@@ -355,12 +347,8 @@ const achievementSection = {
       image: require("./assets/images/TCLogo.png"),
       footerLink: [
         {
-          name: "View Course",
+          name: "Find out more",
           url: "https://tc.canada.ca/en/corporate-services/acts-regulations/list-regulations/canadian-aviation-regulations-sor-96-433/standards/standard-421-flight-crew-permits-licences-ratings-canadian-aviation-regulations-cars#421_30"
-        },
-        {
-          name: "View Certificate",
-          url: "https://drive.google.com/file/d/1YrMaV1TOWIkRUPRaGsFc15sIYiTTIcnK/view?usp=sharing"
         }
       ]
     },
@@ -370,12 +358,8 @@ const achievementSection = {
       image: require("./assets/images/TCLogo.png"),
       footerLink: [
         {
-          name: "View Course",
+          name: "Find out more",
           url: "https://tc.canada.ca/en/corporate-services/acts-regulations/list-regulations/canadian-aviation-regulations-sor-96-433/standards/standard-421-flight-crew-permits-licences-ratings-canadian-aviation-regulations-cars#421_70"
-        },
-        {
-          name: "View Certificate",
-          url: "https://drive.google.com/file/d/1YrMaV1TOWIkRUPRaGsFc15sIYiTTIcnK/view?usp=sharing"
         }
       ]
     }
@@ -438,7 +422,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all!",
   number: "+1 604 838 1021",
-  email_address: "gabriel_henderson@sfu.ca"
+  email_address: "gabriel.henderson@live.com"
 };
 
 // Twitter Section
